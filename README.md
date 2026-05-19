@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:000000,35:07130a,65:39ff14,100:000000&text=Oleksandr%20Bandurka&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=FULL-STACK%20ENGINEER%20%E2%80%A2%20BACKEND%20ARCHITECTURE%20%E2%80%A2%20CLOUD%20SYSTEMS&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:000000,40:07130a,65:39ff14,100:000000&text=Oleksandr%20Bandurka&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=FULL-STACK%20ENGINEER%20%E2%80%A2%20BACKEND%20SYSTEMS%20%E2%80%A2%20CLOUD%20ARCHITECTURE&descAlignY=58&descSize=18" width="100%" />
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=24&duration=2800&pause=1200&color=39FF14&center=true&vCenter=true&width=1000&lines=FastAPI+%E2%80%A2+Django+%E2%80%A2+React+%E2%80%A2+Next.js;High-load+backend+systems+for+FinTech+%26+SaaS;AWS+%E2%80%A2+Docker+%E2%80%A2+Distributed+Architecture;Building+production-grade+software+at+scale" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=23&duration=2800&pause=1200&color=39FF14&center=true&vCenter=true&width=1000&lines=FastAPI+%E2%80%A2+Django+%E2%80%A2+React+%E2%80%A2+Next.js;Building+high-load+systems+for+FinTech+%26+SaaS;AWS+%E2%80%A2+Docker+%E2%80%A2+Distributed+Infrastructure;Production-grade+engineering+at+scale" />
 
 <br/><br/>
 
@@ -20,10 +20,6 @@
 <img src="https://img.shields.io/badge/GITHUB-050505?style=for-the-badge&logo=github&logoColor=39ff14&labelColor=050505" />
 </a>
 
-<a href="https://aws.amazon.com/certification/">
-<img src="https://img.shields.io/badge/AWS_CERTIFIED-050505?style=for-the-badge&logo=amazonaws&logoColor=39ff14&labelColor=050505" />
-</a>
-
 </div>
 
 ---
@@ -34,31 +30,20 @@
 
 </div>
 
-# ENGINEERING PROFILE
+# CURRENT FOCUS
 
-```yaml
-name: Oleksandr Bandurka
-role: Full-Stack Engineer
-experience: 6+ years
+<div align="center">
 
-specialization:
-  - Backend Architecture
-  - Distributed Systems
-  - Cloud Infrastructure
-  - High-Performance APIs
-  - Product Engineering
-
-industries:
-  - FinTech
-  - SaaS
-  - E-Commerce
-
-current_focus:
-  - Async Python systems
-  - Scalable microservices
-  - Infrastructure automation
-  - AI-assisted engineering
+```bash
+> backend architecture
+> distributed systems
+> async infrastructure
+> high-performance APIs
+> cloud-native products
+> AI-assisted engineering
 ```
+
+</div>
 
 ---
 
@@ -73,6 +58,7 @@ current_focus:
 <br/>
 
 <img src="https://img.shields.io/badge/Celery-0a0a0a?style=for-the-badge&logo=celery&logoColor=39ff14" />
+
 <img src="https://img.shields.io/badge/GraphQL-0a0a0a?style=for-the-badge&logo=graphql&logoColor=39ff14" />
 
 ---
@@ -90,6 +76,7 @@ current_focus:
 <br/>
 
 <img src="https://img.shields.io/badge/CI/CD-0a0a0a?style=for-the-badge&logo=githubactions&logoColor=39ff14" />
+
 <img src="https://img.shields.io/badge/Pytest-0a0a0a?style=for-the-badge&logo=pytest&logoColor=39ff14" />
 
 </div>
@@ -98,86 +85,65 @@ current_focus:
 
 # SELECTED WORK
 
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
 ## 💸 Lunch Money
 
-Production finance platform focused on budgeting, transaction aggregation and banking integrations.
+Financial platform focused on budgeting, transaction aggregation and banking integrations.
 
-### Impact
+```diff
++ Processed multi-currency financial data
++ Optimized PostgreSQL queries on 2M+ rows
++ Reduced reporting load time by 40%
++ Built resilient integrations for unstable banking APIs
+```
 
-- Optimized PostgreSQL queries on **2M+ transactions**
-- Reduced reporting load time by **40%**
-- Built resilient integrations for unstable banking APIs
-- Improved deployment workflows with Docker + GitHub Actions
-
-### Stack
+**Stack**
 
 `Python` `Django`
 `React` `TypeScript`
 `PostgreSQL`
 `Docker`
 
-</td>
-
-<td width="50%">
+---
 
 ## ⚡ FastAPI Infrastructure
 
-Migration from legacy monolith architecture into async distributed services.
+Migration from monolith architecture to async distributed services.
 
-### Impact
+```diff
++ Scaled from 2k → 10k+ concurrent requests
++ Reduced deployment time from 45min → 7min
++ Built CI/CD delivery pipelines
++ Introduced async processing architecture
+```
 
-- Scaled from **2k → 10k+ concurrent requests**
-- Reduced deployment time from **45min → 7min**
-- Introduced async processing architecture
-- Built CI/CD delivery pipelines for distributed teams
-
-### Stack
+**Stack**
 
 `FastAPI`
 `Redis`
 `Celery`
-`AWS`
+`PostgreSQL`
 `Docker`
-
-</td>
-</tr>
-</table>
-
-</div>
+`AWS`
 
 ---
 
-# EXPERIENCE
+# OPEN TO
 
-<div align="center">
+```yaml
+roles:
+  - Senior Backend Engineer
+  - Full-Stack Engineer
+  - Product Engineer
 
-| Company | Role | Focus |
-|---|---|---|
-| **Geniusee** | Full Stack Engineer | FastAPI microservices, Next.js optimization, CI/CD |
-| **inVerita** | Full Stack Developer | Django systems, React apps, PostgreSQL performance |
-| **Mobilunity** | Senior Application Developer | SaaS backend architecture, Celery queues |
+location:
+  - Remote EU
+  - Remote USA
 
-</div>
-
----
-
-# CERTIFICATIONS
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/AWS_CERTIFIED_DEVELOPER-111111?style=for-the-badge&logo=amazonaws&logoColor=39ff14" />
-
-<img src="https://img.shields.io/badge/GOOGLE_ASSOCIATE_CLOUD_ENGINEER-111111?style=for-the-badge&logo=googlecloud&logoColor=39ff14" />
-
-<img src="https://img.shields.io/badge/DOCKER_CERTIFIED_ASSOCIATE-111111?style=for-the-badge&logo=docker&logoColor=39ff14" />
-
-</div>
+industries:
+  - FinTech
+  - SaaS
+  - AI Infrastructure
+```
 
 ---
 
@@ -198,17 +164,6 @@ Migration from legacy monolith architecture into async distributed services.
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=voidrunner69&bg_color=000000&color=39ff14&line=39ff14&point=ffffff&hide_border=true" width="95%" />
 
 </div>
-
----
-
-# CURRENTLY
-
-```bash
-> Building scalable backend systems
-> Designing async architectures
-> Optimizing distributed workloads
-> Shipping production-grade software
-```
 
 ---
 
