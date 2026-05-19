@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:000000,40:07130a,65:39ff14,100:000000&text=Oleksandr%20Bandurka&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=FULL-STACK%20ENGINEER%20%E2%80%A2%20BACKEND%20SYSTEMS%20%E2%80%A2%20CLOUD%20ARCHITECTURE&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:000000,40:07130a,65:39ff14,100:000000&text=Oleksandr%20Bandurka&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=FULL-STACK%20ENGINEER%20%E2%80%A2%20PYTHON%20%E2%80%A2%20CLOUD&descAlignY=58&descSize=18" width="100%" />
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=23&duration=2800&pause=1200&color=39FF14&center=true&vCenter=true&width=1000&lines=FastAPI+%E2%80%A2+Django+%E2%80%A2+React+%E2%80%A2+Next.js;Building+high-load+systems+for+FinTech+%26+SaaS;AWS+%E2%80%A2+Docker+%E2%80%A2+Distributed+Infrastructure;Production-grade+engineering+at+scale" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&duration=2800&pause=1200&color=39FF14&center=true&vCenter=true&width=900&lines=Python+%E2%80%A2+FastAPI+%E2%80%A2+Django+%E2%80%A2+React;Backend-focused+full-stack+engineering;AWS+%E2%80%A2+Docker+%E2%80%A2+PostgreSQL" />
 
 <br/><br/>
 
@@ -35,12 +35,10 @@
 <div align="center">
 
 ```bash
-> backend architecture
-> distributed systems
-> async infrastructure
-> high-performance APIs
-> cloud-native products
-> AI-assisted engineering
+> backend systems
+> async services
+> infrastructure
+> API design
 ```
 
 </div>
@@ -87,13 +85,13 @@
 
 ## 💸 Lunch Money
 
-Financial platform focused on budgeting, transaction aggregation and banking integrations.
+Financial platform focused on budgeting and banking integrations.
 
 ```diff
-+ Processed multi-currency financial data
-+ Optimized PostgreSQL queries on 2M+ rows
-+ Reduced reporting load time by 40%
-+ Built resilient integrations for unstable banking APIs
++ PostgreSQL query optimization
++ React dashboard implementation
++ Third-party banking integrations
++ Docker-based development workflow
 ```
 
 **Stack**
@@ -107,13 +105,13 @@ Financial platform focused on budgeting, transaction aggregation and banking int
 
 ## ⚡ FastAPI Infrastructure
 
-Migration from monolith architecture to async distributed services.
+Migration from monolith architecture to async services.
 
 ```diff
-+ Scaled from 2k → 10k+ concurrent requests
-+ Reduced deployment time from 45min → 7min
-+ Built CI/CD delivery pipelines
-+ Introduced async processing architecture
++ Async service architecture
++ API performance optimization
++ CI/CD delivery pipelines
++ Infrastructure improvements
 ```
 
 **Stack**
@@ -131,9 +129,8 @@ Migration from monolith architecture to async distributed services.
 
 ```yaml
 roles:
-  - Senior Backend Engineer
+  - Backend Engineer
   - Full-Stack Engineer
-  - Product Engineer
 
 location:
   - Remote EU
@@ -142,7 +139,6 @@ location:
 industries:
   - FinTech
   - SaaS
-  - AI Infrastructure
 ```
 
 ---
