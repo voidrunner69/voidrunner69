@@ -81,7 +81,7 @@
 
 ---
 
-# SELECTED WORK
+# PROJECTS
 
 ## 💸 Lunch Money
 
@@ -100,28 +100,6 @@ Financial platform focused on budgeting and banking integrations.
 `React` `TypeScript`
 `PostgreSQL`
 `Docker`
-
----
-
-## ⚡ FastAPI Infrastructure
-
-Migration from monolith architecture to async services.
-
-```diff
-+ Async service architecture
-+ API performance optimization
-+ CI/CD delivery pipelines
-+ Infrastructure improvements
-```
-
-**Stack**
-
-`FastAPI`
-`Redis`
-`Celery`
-`PostgreSQL`
-`Docker`
-`AWS`
 
 ---
 
